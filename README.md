@@ -1,3 +1,4 @@
+# I'm currently looking for study buddy :')
 - 👋 Hi, I’m @buseyalcin
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning federated learning
